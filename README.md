@@ -1,4 +1,4 @@
-\# Price Alert Scraper
+# Price Alert Scraper
 
 
 
@@ -6,21 +6,21 @@ A Python web scraper that checks a book's price and sends a Telegram message whe
 
 
 
-\## Features
+## Features
 
 
 
-\- Scrapes the book price with Requests and BeautifulSoup
+- Scrapes the book price with Requests and BeautifulSoup
 
-\- Saves the last checked price locally
+- Saves the last checked price locally
 
-\- Sends change alerts through a Telegram bot
+- Sends change alerts through a Telegram bot
 
-\- Can run automatically with Windows Task Scheduler
+- Can run automatically with Windows Task Scheduler
 
 
 
-\## Setup
+## Setup
 
 
 
